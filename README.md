@@ -12,7 +12,7 @@ In this Software Industry I have gained extensive in-depth experience with many 
 - 🔭 Management tool: JIRA
 - ☎️ Communication: Slack, Zoom, Skype and Google Meet
 
-**NOTE:** This is my Company Specific (Sendoso) GitHub Profile so to explore my other GitHub Profiles redirect to the following links:
+**NOTE:** This is my Company Specific (**Sendoso - worked in 2022**) GitHub Profile so to explore my other GitHub Profiles redirect to the following links:
 
 - Personal: https://github.com/azfarsyal
 - Snapraise: https://github.com/azfarsyalsnapraise
